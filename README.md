@@ -2,6 +2,8 @@
 
 This lab for the KTH course ID2223 was training the Whisper model from Hugging Face to fine tune it to a language of our choice. 
 
+## Summary of Trained Model
+
 Summary of the trained model can be found here: https://huggingface.co/mkbackup/final_model
 
 # Resources
